@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/183bdec9-d669-4245-8201-f8f2ec666133
 
 <h2>Dune</h2>
 
-https://github.com/user-attachments/assets/672293ff-caa9-4f1a-bd9f-495e0a86fcbc
+https://github.com/user-attachments/assets/193d07f8-98dc-43f1-926a-c5d2c18fecc3
 
 <h2>Papiyon</h2>
 
