@@ -88,3 +88,9 @@ https://github.com/user-attachments/assets/1d0a8825-1d23-4c0d-9672-208319932ba9
 <h2>Stargate</h2>
 
 https://github.com/user-attachments/assets/cab3774f-2c0a-4fd4-9d11-893faf6040ad
+
+<h2>Ai Art is shit!</h2>
+
+https://github.com/user-attachments/assets/093d5e52-8ffc-42f5-bc3d-9fbcb395b40a
+
+
