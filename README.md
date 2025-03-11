@@ -71,7 +71,7 @@ https://github.com/user-attachments/assets/19099033-b271-49ad-bec9-68c85a78b5dc
 
 <h2>Beauty</h2>
 
-Uploading Beauty.mp4…
+https://github.com/user-attachments/assets/7f78cc41-fdff-4bc3-9adf-bf968e1a169c
 
 <h2>Assassin de la police</h2>
 
