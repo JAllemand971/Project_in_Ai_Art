@@ -1,5 +1,5 @@
 <h1>My Ai Art</h1>
-This repository showcases my Ai Art.
+This repository showcases my Ai Art. <b></b>Turn your speakers on !</b>
 
 <h2>Unholy</h2>
 
