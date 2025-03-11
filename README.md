@@ -49,6 +49,14 @@ https://github.com/user-attachments/assets/f5ce621c-6dad-42ba-837f-215f93fb1d5b
 
 https://github.com/user-attachments/assets/cb195b26-f344-484e-925b-a58076dffab3
 
+<h2>Bust 2</h2>
+
+https://github.com/user-attachments/assets/47add69a-2b2e-40c8-92fe-6f97d187e03d
+
+<h2>Bust 3</h2>
+
+https://github.com/user-attachments/assets/fce79d89-310f-46ca-86cf-18e3a7ba1c59
+
 <h2>Vive la France</h2>
 
 https://github.com/user-attachments/assets/ac880042-42ba-4db9-a9bf-c6b45e6c8bde
@@ -93,10 +101,35 @@ https://github.com/user-attachments/assets/cab3774f-2c0a-4fd4-9d11-893faf6040ad
 
 https://github.com/user-attachments/assets/4eca2233-5a95-407d-9779-9fecc9e3b8c8
 
+<h2>Pharaoh</h2>
+
+https://github.com/user-attachments/assets/0a203da5-be0a-4943-b623-be89670cc0af
+
+<h2>Pharaoh 2</h2>
+
+https://github.com/user-attachments/assets/0a54a0c6-810f-4716-ab13-3942251d7b30
+
+<h2>Bust 4</h2>
+
+https://github.com/user-attachments/assets/24db12e2-49df-4f93-9c78-7d812732a202
+
+<h2>Bust 5</h2>
+
+https://github.com/user-attachments/assets/bd079f2b-4a37-4ffd-b1f0-0e02fd0fa5f1
+
+<h2>Afro Pink 2</h2>
+
+https://github.com/user-attachments/assets/11c1f133-69da-4ad3-8f1d-1e718e2803e1
+
+<h2>Octopus</h2>
+
+https://github.com/user-attachments/assets/6ee38d36-41d0-4d28-97d3-9013bcdcf81d
+
 <h2>Ai Art is shit!</h2>
 
 https://github.com/user-attachments/assets/093d5e52-8ffc-42f5-bc3d-9fbcb395b40a
 
+![a901d72a-fd7a-447d-8343-d12b9b84e7a7](https://github.com/user-attachments/assets/6f593862-fc23-46c4-84e7-39015fc0b8e7)
 
 
 
