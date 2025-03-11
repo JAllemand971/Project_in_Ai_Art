@@ -1,4 +1,4 @@
-<h1>My Projects in C++</h1>
+<h1>My Ai Art</h1>
 This repository showcases my Ai Art.
 
 <h2>Unholy</h2>
