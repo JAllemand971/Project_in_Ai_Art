@@ -75,7 +75,7 @@ https://github.com/user-attachments/assets/df0bddbc-67bb-403e-9232-12f46af0687a
 
 <h2>Low Poly</h2>
 
-https://github.com/user-attachments/assets/3975ab10-a43f-4b71-889a-a928c49ebcea
+https://github.com/user-attachments/assets/f1662010-e539-4de0-9759-59a8f1b91d9c
 
 <h2>Black Magic 2</h2>
 
