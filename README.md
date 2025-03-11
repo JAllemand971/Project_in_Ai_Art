@@ -89,8 +89,22 @@ https://github.com/user-attachments/assets/1d0a8825-1d23-4c0d-9672-208319932ba9
 
 https://github.com/user-attachments/assets/cab3774f-2c0a-4fd4-9d11-893faf6040ad
 
+<h2>Trump Chilling</h2>
+https://github.com/user-attachments/assets/4eca2233-5a95-407d-9779-9fecc9e3b8c8
+
 <h2>Ai Art is shit!</h2>
 
 https://github.com/user-attachments/assets/093d5e52-8ffc-42f5-bc3d-9fbcb395b40a
 
+![Image 1](https://via.placeholder.com/600x300)
+![Image 2](https://via.placeholder.com/600x300)
+![Image 3](https://via.placeholder.com/600x300)
 
+
+
+
+
+
+
+
+![ComfyUI_00072_](https://github.com/user-attachments/assets/209fda9b-e87a-4a32-8f69-735d156584da)
