@@ -15,15 +15,15 @@ https://github.com/user-attachments/assets/193d07f8-98dc-43f1-926a-c5d2c18fecc3
 
 <h2>Papiyon</h2>
 
-https://github.com/user-attachments/assets/5594aa85-3d7c-425d-8fe4-6724e5aee5bf
+https://github.com/user-attachments/assets/ef21e887-25b1-4de2-a3c9-abef0b780d73
 
 <h2>Hesitation</h2>
 
-https://github.com/user-attachments/assets/4beaa8e5-a75b-4471-b11f-4f3421e68c36
+https://github.com/user-attachments/assets/a7aa9953-1de6-4e52-8ce7-97da4ec88c6b
 
 <h2>Black Magic</h2>
 
-https://github.com/user-attachments/assets/78d337a5-ebd3-48ad-a028-e9d3f9bb255a
+https://github.com/user-attachments/assets/c114b3d2-e49d-4a70-b6f3-e6d7fac1cf65
 
 <h2>Ghost in the Shell</h2>
 
@@ -59,15 +59,15 @@ https://github.com/user-attachments/assets/fce79d89-310f-46ca-86cf-18e3a7ba1c59
 
 <h2>Vive la France</h2>
 
-https://github.com/user-attachments/assets/ac880042-42ba-4db9-a9bf-c6b45e6c8bde
+https://github.com/user-attachments/assets/36bcf98f-68cc-476e-ad9f-992b1562b8c3
 
 <h2>Afro Pink</h2>
 
-https://github.com/user-attachments/assets/e3d44268-e4b0-4dfb-9516-184b05ff4584
+https://github.com/user-attachments/assets/19099033-b271-49ad-bec9-68c85a78b5dc
 
 <h2>Beauty</h2>
 
-https://github.com/user-attachments/assets/ab5faf3b-74c6-473e-b977-d843c7f8f538
+Uploading Beauty.mp4…
 
 <h2>Assassin de la police</h2>
 
