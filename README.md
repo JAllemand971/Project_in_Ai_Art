@@ -1,6 +1,10 @@
 <h1>My Ai Art</h1>
 This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 
+<h2>Frieren is real</h2>
+
+https://github.com/user-attachments/assets/33fa3e2c-a420-4b01-b042-4afc041ee03e
+
 <h2>Papiyon</h2>
 
 https://github.com/user-attachments/assets/ef21e887-25b1-4de2-a3c9-abef0b780d73
