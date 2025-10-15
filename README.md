@@ -9,6 +9,10 @@ https://github.com/user-attachments/assets/33fa3e2c-a420-4b01-b042-4afc041ee03e
 
 https://github.com/user-attachments/assets/ef21e887-25b1-4de2-a3c9-abef0b780d73
 
+<h2>Afro Pink 1</h2>
+
+https://github.com/user-attachments/assets/59bf9f98-f7ab-40b2-b3a8-b09fc6a18908
+
 <h2>Unholy</h2>
 
 https://github.com/user-attachments/assets/4d2766ad-a979-47ea-a645-3f096db3e677
@@ -69,7 +73,7 @@ https://github.com/user-attachments/assets/fce79d89-310f-46ca-86cf-18e3a7ba1c59
 
 https://github.com/user-attachments/assets/36bcf98f-68cc-476e-ad9f-992b1562b8c3
 
-<h2>Afro Pink</h2>
+<h2>Afro Pink 2</h2>
 
 https://github.com/user-attachments/assets/19099033-b271-49ad-bec9-68c85a78b5dc
 
@@ -121,7 +125,7 @@ https://github.com/user-attachments/assets/24db12e2-49df-4f93-9c78-7d812732a202
 
 https://github.com/user-attachments/assets/bd079f2b-4a37-4ffd-b1f0-0e02fd0fa5f1
 
-<h2>Afro Pink 2</h2>
+<h2>Afro Pink 3</h2>
 
 https://github.com/user-attachments/assets/11c1f133-69da-4ad3-8f1d-1e718e2803e1
 
