@@ -106,7 +106,7 @@ This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 <h2>Bust 5</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/bd079f2b-4a37-4ffd-b1f0-0e02fd0fa5f1"></video>
 
-<h2>Afro Pink 3</h2>
+<h2>Afro Pink 5</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/11c1f133-69da-4ad3-8f1d-1e718e2803e1"></video>
 
 <h2>Octopus</h2>
