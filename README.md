@@ -9,6 +9,10 @@ https://github.com/user-attachments/assets/33fa3e2c-a420-4b01-b042-4afc041ee03e
 
 https://github.com/user-attachments/assets/ef21e887-25b1-4de2-a3c9-abef0b780d73
 
+<h2>Papiyon ShowCase</h2>
+
+https://github.com/user-attachments/assets/18bac9c5-a083-40f6-b9cc-5e1a098e16e2
+
 <h2>Afro Pink 1</h2>
 
 https://github.com/user-attachments/assets/59bf9f98-f7ab-40b2-b3a8-b09fc6a18908
@@ -28,6 +32,10 @@ https://github.com/user-attachments/assets/183bdec9-d669-4245-8201-f8f2ec666133
 <h2>Dune</h2>
 
 https://github.com/user-attachments/assets/193d07f8-98dc-43f1-926a-c5d2c18fecc3
+
+<h2>Musk vs Zuckerberg</h2>
+
+https://github.com/user-attachments/assets/00498388-5734-4cef-b425-fa132bacd608
 
 <h2>Hesitation</h2>
 
@@ -49,6 +57,10 @@ https://github.com/user-attachments/assets/79cdf17b-b393-40b6-8f89-ddfcaadc1cf4
 
 https://github.com/user-attachments/assets/6046aff6-6e01-46c4-8230-7eb6cc6c9a04
 
+<h2>Geisha</h2>
+
+https://github.com/user-attachments/assets/75ce3faa-6578-425b-bc72-f79d344c1cc1
+
 <h2>Afro Flower 2</h2>
 
 https://github.com/user-attachments/assets/bf55ee34-4461-43d3-b3d0-b9a40b9a7633
@@ -56,6 +68,10 @@ https://github.com/user-attachments/assets/bf55ee34-4461-43d3-b3d0-b9a40b9a7633
 <h2>Heroes</h2>
 
 https://github.com/user-attachments/assets/7abe4c7a-096f-4f17-8486-d3aa77ffca69
+
+<h2>What did you say ?</h2>
+
+https://github.com/user-attachments/assets/16fd321d-56fc-46e3-8e73-24380d0f04ee
 
 <h2>Bust</h2>
 
@@ -92,6 +108,10 @@ https://github.com/user-attachments/assets/e9304a54-f6ac-4ce5-9cc0-0a301d7fbab1
 <h2>Darth Vader</h2>
 
 https://github.com/user-attachments/assets/0e5db369-ff14-4f92-af8d-e85457d73cb6
+
+<h2>Rainbow Teal'c</h2>
+
+https://github.com/user-attachments/assets/1ae0a393-e98d-4e5c-81ed-26d87df43ea2
 
 <h2>Fox</h2>
 
@@ -184,6 +204,8 @@ https://github.com/user-attachments/assets/093d5e52-8ffc-42f5-bc3d-9fbcb395b40a
 ![images020](https://github.com/user-attachments/assets/7ad34c92-13f0-4d82-8f58-2558ef05c3c2)
 
 ![images018](https://github.com/user-attachments/assets/3d66d736-6b2e-4bd3-b20c-eaefc865aeb6)
+
+![my-low-effort-content-of-the-day-27th-december-2023-v0-xv71crhwnv8c1](https://github.com/user-attachments/assets/1f9302e1-8828-4c0a-9b35-6359c8c72f5a)
 
 ![images017](https://github.com/user-attachments/assets/1a6a52bb-9ce2-4091-92f5-61f21e06c768)
 
