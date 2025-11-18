@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/33fa3e2c-a420-4b01-b042-4afc041ee03e
 
 https://github.com/user-attachments/assets/ef21e887-25b1-4de2-a3c9-abef0b780d73
 
-<h2>Papiyon ShowCase</h2>
+<h2>Papiyon HowTo</h2>
 
 https://github.com/user-attachments/assets/18bac9c5-a083-40f6-b9cc-5e1a098e16e2
 
