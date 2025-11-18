@@ -13,7 +13,6 @@ This repository showcases my Ai Art. <b>Turn your speakers on !</b>
        src="https://github.com/user-attachments/assets/59bf9f98-f7ab-40b2-b3a8-b09fc6a18908">
 </video>
 
-
 <h2>Unholy</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/4d2766ad-a979-47ea-a645-3f096db3e677"></video>
 
