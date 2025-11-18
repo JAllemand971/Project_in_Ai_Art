@@ -133,8 +133,6 @@ This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 
 ![image015](https://github.com/user-attachments/assets/0a4b56c5-aa88-4c5b-82aa-7f276b87726a)
 
-![image011](https://github.com/user-attachments/assets/2f6f9f41-9ee2-4c14-99d8-2850786ac034)
-
 ![image004](https://github.com/user-attachments/assets/d70d6fb5-fb0a-4c3c-a2f3-6d6281dc4c50)
 
 ![images012](https://github.com/user-attachments/assets/579b2f43-f40f-441d-ac0b-7eecaa7befb2)
