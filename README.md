@@ -1,161 +1,122 @@
 <h1>My Ai Art</h1>
 This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 
-<h2>Frieren is real</h2>
+<h1>My Ai Art</h1>
+This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 
+<h2>Frieren is real</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/1c401220-5035-4f70-9bdb-06d33940c31e"></video>
 
-<h2>Frieren is real</h2>
-
-https://github.com/user-attachments/assets/1c401220-5035-4f70-9bdb-06d33940c31e
-
 <h2>Papiyon</h2>
-
-https://github.com/user-attachments/assets/ef21e887-25b1-4de2-a3c9-abef0b780d73
+<video width="512" height="512" src="https://github.com/user-attachments/assets/ef21e887-25b1-4de2-a3c9-abef0b780d73"></video>
 
 <h2>Afro Pink 1</h2>
-
-https://github.com/user-attachments/assets/59bf9f98-f7ab-40b2-b3a8-b09fc6a18908
+<video width="1024" height="512" src="https://github.com/user-attachments/assets/59bf9f98-f7ab-40b2-b3a8-b09fc6a18908"></video>
 
 <h2>Unholy</h2>
-
-https://github.com/user-attachments/assets/4d2766ad-a979-47ea-a645-3f096db3e677
+<video width="512" height="512" src="https://github.com/user-attachments/assets/4d2766ad-a979-47ea-a645-3f096db3e677"></video>
 
 <h2>Low Poly</h2>
-
-https://github.com/user-attachments/assets/f1662010-e539-4de0-9759-59a8f1b91d9c
+<video width="512" height="512" src="https://github.com/user-attachments/assets/f1662010-e539-4de0-9759-59a8f1b91d9c"></video>
 
 <h2>I know I can</h2>
-
-https://github.com/user-attachments/assets/183bdec9-d669-4245-8201-f8f2ec666133
+<video width="512" height="512" src="https://github.com/user-attachments/assets/183bdec9-d669-4245-8201-f8f2ec666133"></video>
 
 <h2>Dune</h2>
-
-https://github.com/user-attachments/assets/193d07f8-98dc-43f1-926a-c5d2c18fecc3
+<video width="512" height="512" src="https://github.com/user-attachments/assets/193d07f8-98dc-43f1-926a-c5d2c18fecc3"></video>
 
 <h2>Musk vs Zuckerberg</h2>
-
-https://github.com/user-attachments/assets/00498388-5734-4cef-b425-fa132bacd608
+<video width="512" height="512" src="https://github.com/user-attachments/assets/00498388-5734-4cef-b425-fa132bacd608"></video>
 
 <h2>Hesitation</h2>
-
-https://github.com/user-attachments/assets/a7aa9953-1de6-4e52-8ce7-97da4ec88c6b
+<video width="512" height="512" src="https://github.com/user-attachments/assets/a7aa9953-1de6-4e52-8ce7-97da4ec88c6b"></video>
 
 <h2>Black Magic</h2>
-
-https://github.com/user-attachments/assets/c114b3d2-e49d-4a70-b6f3-e6d7fac1cf65
+<video width="512" height="512" src="https://github.com/user-attachments/assets/c114b3d2-e49d-4a70-b6f3-e6d7fac1cf65"></video>
 
 <h2>Ghost in the Shell</h2>
-
-https://github.com/user-attachments/assets/915e5694-bf71-4fc7-a32c-6add162f3bd5
+<video width="512" height="512" src="https://github.com/user-attachments/assets/915e5694-bf71-4fc7-a32c-6add162f3bd5"></video>
 
 <h2>Dried Flower</h2>
-
-https://github.com/user-attachments/assets/79cdf17b-b393-40b6-8f89-ddfcaadc1cf4
+<video width="512" height="512" src="https://github.com/user-attachments/assets/79cdf17b-b393-40b6-8f89-ddfcaadc1cf4"></video>
 
 <h2>Afro Flower</h2>
-
-https://github.com/user-attachments/assets/6046aff6-6e01-46c4-8230-7eb6cc6c9a04
+<video width="512" height="512" src="https://github.com/user-attachments/assets/6046aff6-6e01-46c4-8230-7eb6cc6c9a04"></video>
 
 <h2>Geisha</h2>
-
-https://github.com/user-attachments/assets/75ce3faa-6578-425b-bc72-f79d344c1cc1
+<video width="512" height="512" src="https://github.com/user-attachments/assets/75ce3faa-6578-425b-bc72-f79d344c1cc1"></video>
 
 <h2>Afro Flower 2</h2>
-
-https://github.com/user-attachments/assets/bf55ee34-4461-43d3-b3d0-b9a40b9a7633
+<video width="512" height="512" src="https://github.com/user-attachments/assets/bf55ee34-4461-43d3-b3d0-b9a40b9a7633"></video>
 
 <h2>Heroes</h2>
-
-https://github.com/user-attachments/assets/7abe4c7a-096f-4f17-8486-d3aa77ffca69
+<video width="512" height="512" src="https://github.com/user-attachments/assets/7abe4c7a-096f-4f17-8486-d3aa77ffca69"></video>
 
 <h2>What did you say ?</h2>
-
-https://github.com/user-attachments/assets/16fd321d-56fc-46e3-8e73-24380d0f04ee
+<video width="512" height="512" src="https://github.com/user-attachments/assets/16fd321d-56fc-46e3-8e73-24380d0f04ee"></video>
 
 <h2>Bust</h2>
-
-https://github.com/user-attachments/assets/cb195b26-f344-484e-925b-a58076dffab3
+<video width="512" height="512" src="https://github.com/user-attachments/assets/cb195b26-f344-484e-925b-a58076dffab3"></video>
 
 <h2>Bust 2</h2>
-
-https://github.com/user-attachments/assets/47add69a-2b2e-40c8-92fe-6f97d187e03d
+<video width="512" height="512" src="https://github.com/user-attachments/assets/47add69a-2b2e-40c8-92fe-6f97d187e03d"></video>
 
 <h2>Bust 3</h2>
-
-https://github.com/user-attachments/assets/fce79d89-310f-46ca-86cf-18e3a7ba1c59
+<video width="512" height="512" src="https://github.com/user-attachments/assets/fce79d89-310f-46ca-86cf-18e3a7ba1c59"></video>
 
 <h2>Vive la France</h2>
-
-https://github.com/user-attachments/assets/36bcf98f-68cc-476e-ad9f-992b1562b8c3
+<video width="512" height="512" src="https://github.com/user-attachments/assets/36bcf98f-68cc-476e-ad9f-992b1562b8c3"></video>
 
 <h2>Afro Pink 2</h2>
-
-https://github.com/user-attachments/assets/19099033-b271-49ad-bec9-68c85a78b5dc
+<video width="512" height="512" src="https://github.com/user-attachments/assets/19099033-b271-49ad-bec9-68c85a78b5dc"></video>
 
 <h2>Beauty</h2>
-
-https://github.com/user-attachments/assets/7f78cc41-fdff-4bc3-9adf-bf968e1a169c
+<video width="512" height="512" src="https://github.com/user-attachments/assets/7f78cc41-fdff-4bc3-9adf-bf968e1a169c"></video>
 
 <h2>Assassin de la police</h2>
-
-https://github.com/user-attachments/assets/df0bddbc-67bb-403e-9232-12f46af0687a
+<video width="512" height="512" src="https://github.com/user-attachments/assets/df0bddbc-67bb-403e-9232-12f46af0687a"></video>
 
 <h2>Black Magic 2</h2>
-
-https://github.com/user-attachments/assets/e9304a54-f6ac-4ce5-9cc0-0a301d7fbab1
+<video width="512" height="512" src="https://github.com/user-attachments/assets/e9304a54-f6ac-4ce5-9cc0-0a301d7fbab1"></video>
 
 <h2>Darth Vader</h2>
-
-https://github.com/user-attachments/assets/0e5db369-ff14-4f92-af8d-e85457d73cb6
+<video width="512" height="512" src="https://github.com/user-attachments/assets/0e5db369-ff14-4f92-af8d-e85457d73cb6"></video>
 
 <h2>Rainbow Teal'c</h2>
-
-https://github.com/user-attachments/assets/1ae0a393-e98d-4e5c-81ed-26d87df43ea2
+<video width="512" height="512" src="https://github.com/user-attachments/assets/1ae0a393-e98d-4e5c-81ed-26d87df43ea2"></video>
 
 <h2>Fox</h2>
-
-https://github.com/user-attachments/assets/5629b0c9-bb67-432f-8dd8-e559e71e4172
+<video width="512" height="512" src="https://github.com/user-attachments/assets/5629b0c9-bb67-432f-8dd8-e559e71e4172"></video>
 
 <h2>Hijo de la Luna</h2>
-
-https://github.com/user-attachments/assets/1d0a8825-1d23-4c0d-9672-208319932ba9
+<video width="512" height="512" src="https://github.com/user-attachments/assets/1d0a8825-1d23-4c0d-9672-208319932ba9"></video>
 
 <h2>Stargate</h2>
-
-https://github.com/user-attachments/assets/cab3774f-2c0a-4fd4-9d11-893faf6040ad
+<video width="512" height="512" src="https://github.com/user-attachments/assets/cab3774f-2c0a-4fd4-9d11-893faf6040ad"></video>
 
 <h2>Trump Chilling</h2>
-
-https://github.com/user-attachments/assets/4eca2233-5a95-407d-9779-9fecc9e3b8c8
+<video width="512" height="512" src="https://github.com/user-attachments/assets/4eca2233-5a95-407d-9779-9fecc9e3b8c8"></video>
 
 <h2>Pharaoh</h2>
-
-https://github.com/user-attachments/assets/0a203da5-be0a-4943-b623-be89670cc0af
+<video width="512" height="512" src="https://github.com/user-attachments/assets/0a203da5-be0a-4943-b623-be89670cc0af"></video>
 
 <h2>Pharaoh 2</h2>
-
-https://github.com/user-attachments/assets/0a54a0c6-810f-4716-ab13-3942251d7b30
+<video width="512" height="512" src="https://github.com/user-attachments/assets/0a54a0c6-810f-4716-ab13-3942251d7b30"></video>
 
 <h2>Bust 4</h2>
-
-https://github.com/user-attachments/assets/24db12e2-49df-4f93-9c78-7d812732a202
+<video width="512" height="512" src="https://github.com/user-attachments/assets/24db12e2-49df-4f93-9c78-7d812732a202"></video>
 
 <h2>Bust 5</h2>
-
-https://github.com/user-attachments/assets/bd079f2b-4a37-4ffd-b1f0-0e02fd0fa5f1
+<video width="512" height="512" src="https://github.com/user-attachments/assets/bd079f2b-4a37-4ffd-b1f0-0e02fd0fa5f1"></video>
 
 <h2>Afro Pink 3</h2>
-
-https://github.com/user-attachments/assets/11c1f133-69da-4ad3-8f1d-1e718e2803e1
+<video width="512" height="512" src="https://github.com/user-attachments/assets/11c1f133-69da-4ad3-8f1d-1e718e2803e1"></video>
 
 <h2>Octopus</h2>
-
-https://github.com/user-attachments/assets/6ee38d36-41d0-4d28-97d3-9013bcdcf81d
+<video width="512" height="512" src="https://github.com/user-attachments/assets/6ee38d36-41d0-4d28-97d3-9013bcdcf81d"></video>
 
 <h2>Ai Art is shit!</h2>
-
-https://github.com/user-attachments/assets/093d5e52-8ffc-42f5-bc3d-9fbcb395b40a
+<video width="512" height="512" src="https://github.com/user-attachments/assets/093d5e52-8ffc-42f5-bc3d-9fbcb395b40a"></video>
 
 <h2>Random Images</h2>
 
