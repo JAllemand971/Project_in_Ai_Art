@@ -159,8 +159,6 @@ https://github.com/user-attachments/assets/093d5e52-8ffc-42f5-bc3d-9fbcb395b40a
 
 <h2>Random Images</h2>
 
-https://github.com/user-attachments/assets/84bc2399-37ad-4a75-ac69-3c05a45f5fda
-
 ![ComfyUI_00072_](https://github.com/user-attachments/assets/209fda9b-e87a-4a32-8f69-735d156584da)
 
 ![a901d72a-fd7a-447d-8343-d12b9b84e7a7](https://github.com/user-attachments/assets/6f593862-fc23-46c4-84e7-39015fc0b8e7)
