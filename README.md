@@ -3,9 +3,10 @@ This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 
 <h2>Frieren is real</h2>
 
-<video width="630" height="300" src="https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4"></video>
+<video width="630" height="300" controls
+       src="https://github.com/JAllemand971/Project_in_Ai_Art/raw/main/docs/videos/FrierenIsReal.mp4">
+</video>
 
-<video width="630" height="300" src="https://jallemand971.github.io/Project_in_Ai_Art/videos/FrierenIsReal.mp4"></video>
 
 
 <h2>Frieren is real</h2>
