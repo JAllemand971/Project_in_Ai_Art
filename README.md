@@ -8,7 +8,7 @@ This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/ef21e887-25b1-4de2-a3c9-abef0b780d73"></video>
 
 <h2>Afro Pink 1</h2>
-<video width="1024" height="512" src="https://github.com/user-attachments/assets/59bf9f98-f7ab-40b2-b3a8-b09fc6a18908"></video>
+<video width="512" height="512" src="https://github.com/user-attachments/assets/6046aff6-6e01-46c4-8230-7eb6cc6c9a04"></video>
 
 <h2>Unholy</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/4d2766ad-a979-47ea-a645-3f096db3e677"></video>
@@ -34,16 +34,16 @@ This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 <h2>Ghost in the Shell</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/915e5694-bf71-4fc7-a32c-6add162f3bd5"></video>
 
-<h2>Dried Flower</h2>
+<h2>Dried Pink 2</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/79cdf17b-b393-40b6-8f89-ddfcaadc1cf4"></video>
 
 <h2>Afro Flower</h2>
-<video width="512" height="512" src="https://github.com/user-attachments/assets/6046aff6-6e01-46c4-8230-7eb6cc6c9a04"></video>
+<video width="1024" height="512" src="https://github.com/user-attachments/assets/59bf9f98-f7ab-40b2-b3a8-b09fc6a18908"></video>
 
 <h2>Geisha</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/75ce3faa-6578-425b-bc72-f79d344c1cc1"></video>
 
-<h2>Afro Flower 2</h2>
+<h2>Afro Pink 3</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/bf55ee34-4461-43d3-b3d0-b9a40b9a7633"></video>
 
 <h2>Heroes</h2>
@@ -64,7 +64,7 @@ This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 <h2>Vive la France</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/36bcf98f-68cc-476e-ad9f-992b1562b8c3"></video>
 
-<h2>Afro Pink 2</h2>
+<h2>Afro Pink 4</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/19099033-b271-49ad-bec9-68c85a78b5dc"></video>
 
 <h2>Beauty</h2>
