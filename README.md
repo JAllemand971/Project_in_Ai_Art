@@ -10,6 +10,9 @@ This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 
 <video src="https://jallemand971.github.io/Project_in_Ai_Art/videos/FrierenIsReal.mp4" width="320" height="240" controls></video>
 
+<iframe width="560" height="315" src="https://jallemand971.github.io/Project_in_Ai_Art/videos/FrierenIsReal.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 <h2>Frieren is real</h2>
 
