@@ -1,8 +1,6 @@
 <h1>My Ai Art</h1>
 This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 
-[![video](thumbnail.png)](https://youtu.be/KpyRpWO7Ve4?si=dXA0EVreAm7rpdxH)
-
 <h2>Frieren is real</h2>
 
 https://github.com/user-attachments/assets/1c401220-5035-4f70-9bdb-06d33940c31e
