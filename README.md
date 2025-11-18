@@ -1,9 +1,6 @@
 <h1>My Ai Art</h1>
 This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 
-<h1>My Ai Art</h1>
-This repository showcases my Ai Art. <b>Turn your speakers on !</b>
-
 <h2>Frieren is real</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/1c401220-5035-4f70-9bdb-06d33940c31e"></video>
 
