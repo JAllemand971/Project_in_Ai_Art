@@ -26,7 +26,7 @@ This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/193d07f8-98dc-43f1-926a-c5d2c18fecc3"></video>
 
 <h2>Musk vs Zuckerberg</h2>
-<video width="512" height="512" src="https://github.com/user-attachments/assets/00498388-5734-4cef-b425-fa132bacd608"></video>
+<video width="1024" height="512" src="https://github.com/user-attachments/assets/00498388-5734-4cef-b425-fa132bacd608"></video>
 
 <h2>Hesitation</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/a7aa9953-1de6-4e52-8ce7-97da4ec88c6b"></video>
