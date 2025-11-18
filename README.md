@@ -11,7 +11,11 @@ This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/ef21e887-25b1-4de2-a3c9-abef0b780d73"></video>
 
 <h2>Afro Pink 1</h2>
-<video width="1024" height="512" src="https://github.com/user-attachments/assets/59bf9f98-f7ab-40b2-b3a8-b09fc6a18908"></video>
+<video width="1024" height="512" controls
+       poster="https://jallemand971.github.io/Project_in_Ai_Art/thumbnails/afro_pink_1.png"
+       src="https://github.com/user-attachments/assets/59bf9f98-f7ab-40b2-b3a8-b09fc6a18908">
+</video>
+
 
 <h2>Unholy</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/4d2766ad-a979-47ea-a645-3f096db3e677"></video>
