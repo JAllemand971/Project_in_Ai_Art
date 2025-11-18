@@ -9,10 +9,6 @@ https://github.com/user-attachments/assets/1c401220-5035-4f70-9bdb-06d33940c31e
 
 https://github.com/user-attachments/assets/ef21e887-25b1-4de2-a3c9-abef0b780d73
 
-<h2>Papiyon HowTo</h2>
-
-https://github.com/user-attachments/assets/b772c316-0003-410f-aff1-ca0aebdff4a2
-
 <h2>Afro Pink 1</h2>
 
 https://github.com/user-attachments/assets/59bf9f98-f7ab-40b2-b3a8-b09fc6a18908
