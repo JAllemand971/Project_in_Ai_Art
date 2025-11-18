@@ -3,7 +3,7 @@ This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 
 <h2>Frieren is real</h2>
 
-https://github.com/user-attachments/assets/33fa3e2c-a420-4b01-b042-4afc041ee03e
+https://github.com/user-attachments/assets/1c401220-5035-4f70-9bdb-06d33940c31e
 
 <h2>Papiyon</h2>
 
