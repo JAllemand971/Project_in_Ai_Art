@@ -1,12 +1,14 @@
 <h1>My Ai Art</h1>
 This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 
-<h3>Frieren is real</h3>
+<h2>Frieren is real</h2>
 
 <video controls width="600">
-  <source src="https://jallemand971.github.io/Project_in_Ai_Art/videos/FrierenIsReal.mp4" type="video/mp4">
+  <source src="" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+<video src="https://jallemand971.github.io/Project_in_Ai_Art/videos/FrierenIsReal.mp4" width="320" height="240" controls></video>
 
 
 <h2>Frieren is real</h2>
