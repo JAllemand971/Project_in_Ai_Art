@@ -79,14 +79,14 @@ This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 <h2>Darth Vader</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/0e5db369-ff14-4f92-af8d-e85457d73cb6"></video>
 
-<h2>Rainbow Teal'c</h2>
-<video width="512" height="512" src="https://github.com/user-attachments/assets/1ae0a393-e98d-4e5c-81ed-26d87df43ea2"></video>
-
 <h2>Fox</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/5629b0c9-bb67-432f-8dd8-e559e71e4172"></video>
 
 <h2>Hijo de la Luna</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/1d0a8825-1d23-4c0d-9672-208319932ba9"></video>
+
+<h2>Rainbow Teal'c</h2>
+<video width="512" height="512" src="https://github.com/user-attachments/assets/1ae0a393-e98d-4e5c-81ed-26d87df43ea2"></video>
 
 <h2>Stargate</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/cab3774f-2c0a-4fd4-9d11-893faf6040ad"></video>
