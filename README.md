@@ -1,6 +1,9 @@
 <h1>My Ai Art</h1>
 This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 
+[🎬 Frieren Is Real](https://jallemand971.github.io/Project_in_Ai_Art/videos/FrierenIsReal.mp4)
+
+
 <h2>Frieren is real</h2>
 
 https://github.com/user-attachments/assets/1c401220-5035-4f70-9bdb-06d33940c31e
