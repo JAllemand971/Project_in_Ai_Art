@@ -3,10 +3,8 @@ This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 
 <h2>Frieren is real</h2>
 
-<video controls width="600">
-  <source src="" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video width="630" height="300" src="https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4"></video>
+
 
 <video src="https://jallemand971.github.io/Project_in_Ai_Art/videos/FrierenIsReal.mp4" width="320" height="240" controls></video>
 
