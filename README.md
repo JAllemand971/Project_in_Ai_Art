@@ -9,7 +9,7 @@ This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 
 <h2>Afro Pink 1</h2>
 <video width="1024" height="512" controls
-       poster="https://github.com/JAllemand971/Project_in_Ai_Art/blob/main/docs/thumbnails/AfroPink1.png"
+       poster="https://raw.githubusercontent.com/JAllemand971/Project_in_Ai_Art/main/docs/thumbnails/AfroPink1.png"
        src="https://github.com/user-attachments/assets/59bf9f98-f7ab-40b2-b3a8-b09fc6a18908">
 </video>
 
