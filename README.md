@@ -70,9 +70,6 @@ This repository showcases my Ai Art. <b>Turn your speakers on !</b>
 <h2>Rainbow Teal'c</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/1ae0a393-e98d-4e5c-81ed-26d87df43ea2"></video>
 
-<h2>Trump Chilling</h2>
-<video width="512" height="512" src="https://github.com/user-attachments/assets/4eca2233-5a95-407d-9779-9fecc9e3b8c8"></video>
-
 <h2>Bust 4</h2>
 <video width="512" height="512" src="https://github.com/user-attachments/assets/24db12e2-49df-4f93-9c78-7d812732a202"></video>
 
